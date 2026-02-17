@@ -1,7 +1,6 @@
 {
     "name": "moderyo/sdk",
     "description": "Official PHP SDK for Moderyo Content Moderation API",
-    "version": "2.0.7",
     "type": "library",
     "license": "MIT",
     "keywords": [
