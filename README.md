@@ -4,7 +4,7 @@ Official PHP SDK for the Moderyo Content Moderation API.
 
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D8.4-blue)](https://php.net)
 [![Packagist Version](https://img.shields.io/packagist/v/moderyo/sdk)](https://packagist.org/packages/moderyo/sdk)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Requirements
 
@@ -151,6 +151,13 @@ $result = Moderyo::moderate('Check this text');
 composer install
 vendor/bin/phpunit
 ```
+
+## Links
+
+- **Packagist:** [packagist.org/packages/moderyo/sdk](https://packagist.org/packages/moderyo/sdk)
+- **Documentation:** [docs.moderyo.com/sdk/php](https://docs.moderyo.com/sdk/php)
+- **Playground:** [playground-examples/php](https://github.com/Moderyo/playground-examples/tree/main/php)
+- **Website:** [moderyo.com](https://moderyo.com)
 
 ## License
 

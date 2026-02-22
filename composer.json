@@ -21,7 +21,7 @@
     "homepage": "https://github.com/moderyo/moderyo-php",
     "support": {
         "issues": "https://github.com/moderyo/moderyo-php/issues",
-        "docs": "https://docs.moderyo.com/php"
+        "docs": "https://docs.moderyo.com/sdk/php"
     },
     "require": {
         "php": "^8.4",
